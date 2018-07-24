@@ -6,12 +6,16 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [
-    "fun",
-    "ninjas"
-  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mofidulislamporag/nodejspractice.git"
+  },
   "author": "me",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mofidulislamporag/nodejspractice/issues"
+  },
+  "homepage": "https://github.com/mofidulislamporag/nodejspractice#readme",
   "dependencies": {
     "body-parser": "^1.18.3",
     "ejs": "^2.6.1",
